@@ -1,1 +1,1 @@
-SilexLazyControlerLoadSample
+SilexLazyControlerLoadSample2
